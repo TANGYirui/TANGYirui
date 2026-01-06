@@ -1,7 +1,7 @@
 ## Hi, I'm Yirui Tang (唐艺睿) 👋
 
 
-📌 I'm currently seeking **PhD and Research Assistant (RA) positions**, with interests in spatio-temporal data analysis, machine learning, and NLP.
+📌 I'm currently seeking **PhD and Research Assistant (RA) positions**, with interests in spatio-temporal data analysis, ML, and NLP.
 
 🎓 MSc Student in Data-driven Modeling, HKUST  
 🎓 BSc in Economic Statistics, Northeast Forestry University  
