@@ -32,6 +32,10 @@
 - **Statistical Tools**: SPSS, EViews
 
 ---
+### 🌱 Interests
+Outside of research, I enjoy hiking and cycling, and I am also an amateur photography enthusiast.
+
+---
 
 ### 📫 Contact
 - Email: ytangdt@connect.ust.hk  
