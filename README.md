@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Yirui Tang (唐艺睿) 👋
 
-<!--
-**TANGYirui/TANGYirui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📌 I'm currently seeking **PhD and Research Assistant (RA) positions**, with interests in spatio-temporal data analysis, machine learning, and NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MSc Student in Data-driven Modeling, HKUST  
+🎓 BSc in Economic Statistics, Northeast Forestry University  
+🔬 Research Assistant at USTC & Beijing Normal University (Zhuhai)
+
+---
+
+### 🔍 Research Interests
+- Spatio-temporal data analysis
+- Machine learning for time-series forecasting  
+- Natural language processing  
+- AI-driven modeling for financial markets and FinTech
+
+---
+
+### 📄 Publication
+- **A CrossInformer Model Based on Dual-Layer Decomposition and Interpretability for Short-Term Electricity Load Forecasting**  
+  *Alexandria Engineering Journal*, 2025  
+  H. Li, **Y. Tang**, D. Liu  
+
+---
+
+### 🛠️ Technical Skills
+- **Programming**: Python, SQL, R  
+- **Machine Learning**: PyTorch, Transformers, CNNs, GNNs  
+- **LLM & NLP**: Hugging Face, Prompt Engineering  
+- **Research Tools**: Git, LaTeX, MATLAB  
+- **Statistical Tools**: SPSS, EViews
+
+---
+
+### 📫 Contact
+- Email: ytangdt@connect.ust.hk  
+- GitHub: https://github.com/TANGYirui
+
