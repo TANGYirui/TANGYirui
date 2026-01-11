@@ -10,10 +10,9 @@
 ---
 
 ### 🔍 Research Interests
-- Spatio-temporal data analysis
-- Machine learning for time-series forecasting  
-- Natural language processing  
-- AI-driven modeling for financial markets and FinTech
+- Spatiotemporal Modeling
+- LLM Reasoning 
+- FinTech & AI
 
 ---
 
@@ -24,12 +23,9 @@
 
 ---
 
-### 🛠️ Technical Skills
-- **Programming**: Python, SQL, R  
-- **Machine Learning**: PyTorch, Transformers, CNNs, GNNs  
-- **LLM & NLP**: Hugging Face, Prompt Engineering  
-- **Research Tools**: Git, LaTeX, MATLAB  
-- **Statistical Tools**: SPSS, EViews
+### 💻 Technical Stack
+- **Programming Languages**: Python, SQL, R, MATLAB, LaTeX
+- **Statistical Tools**: SPSS, EViews, Stata, Amos
 
 ---
 ### 🌱 Interests
